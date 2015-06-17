@@ -1,0 +1,4 @@
+GNU_INSTALL_ROOT := /opt/gcc-arm-none
+GNU_VERSION := 4.8.3
+GNU_PREFIX := arm-none-eabi
+
